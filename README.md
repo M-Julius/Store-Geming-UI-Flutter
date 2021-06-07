@@ -1,7 +1,3 @@
-
-![Logo](./images/logo.png)
-
-    
 # Store Geming
 
 Store gaming is the app ui, build with framework Flutter
